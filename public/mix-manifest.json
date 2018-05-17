@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/vendor/dropzone/dropzone.js": "/vendor/dropzone/dropzone.js",
+    "/vendor/dropzone/dropzone.css": "/vendor/dropzone/dropzone.css",
+    "/vendor/bootstrap-select/js/bootstrap-select.js": "/vendor/bootstrap-select/js/bootstrap-select.js",
+    "/vendor/bootstrap-select/css/bootstrap-select.css": "/vendor/bootstrap-select/css/bootstrap-select.css"
+}
