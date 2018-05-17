@@ -9,8 +9,6 @@
         <title>SuperHero CRUD</title>
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <link href="/css/app.css" rel="stylesheet">
-		<link rel="stylesheet" href="/vendor/rafwell/simple-grid/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" />
-		<link rel="stylesheet" href="/vendor/rafwell/simple-grid/css/simplegrid.css">
 		<link rel="stylesheet" href="/vendor/dropzone/dropzone.css">
 		<link rel="stylesheet" href="/vendor/bootstrap-select/css/bootstrap-select.css">
         <!--[if lt IE 9]>
